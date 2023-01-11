@@ -10,7 +10,6 @@ btn.addEventListener('click',btnClick)
 
 
 
-
 function btnClick(){
     let hexColor ='#';
     for(let i=0; i<6; i++ ){
