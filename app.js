@@ -90,6 +90,7 @@ const colors = ["Aqua",
     "Yellow",
     "YellowGreen",
 ];
+
 const btn = document.getElementById('btn');
 const color = document.querySelector(".color");
 const spanColor = document.getElementById('spanColor')
